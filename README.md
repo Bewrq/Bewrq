@@ -50,7 +50,7 @@ Benimle birlikte bu yolda yürüyen efsaneler 💫
   <img src="https://lanyard.cnrad.dev/api/1394252223961235526?theme=dark&animated=true&borderRadius=30px" />
 </p>
 
-*(Discord ID’lerini girince arkadaşlarının aktiflik durumları, oynadıkları oyunlar vs. otomatik güncellenir!)*
+
 
 ---
 
