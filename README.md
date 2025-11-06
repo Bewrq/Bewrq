@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="TSX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
 </p>
@@ -41,14 +42,14 @@
 ### 🤝 Sıkı Dostlarım
 
 Benimle birlikte bu yolda yürüyen efsaneler 💫
+miladves
+marcel
+realnagatso
+bbevq.zipp
+onurx.
 
-<p align="center">
 
-  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/758758516516585491?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/1150681244510728194?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/1394252223961235526?theme=dark&animated=true&borderRadius=30px" />
-</p>
+
 
 
 
