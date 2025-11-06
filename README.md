@@ -17,15 +17,7 @@
 📍 Projemize katılmak istersen:
 [👉 discord.gg/auranest](https://discord.gg/auranest)
 
----
 
-### 🧑‍💻 Discord Profilim
-
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&bg=1e1e2e&borderRadius=30px&animated=true&idleMessage=Kafasına%20göre%20takılıyor...%20😏" />
-</p>
-
----
 
 ### 🧰 Kullandığım Teknolojiler
 
