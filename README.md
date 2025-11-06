@@ -9,7 +9,7 @@
 
 ### 🧠 Hakkımda
 
-💬 2019'ten beri yazılım dünyasında kendi yolumu çiziyorum.  
+💬 2019'dan beri yazılım dünyasında kendi yolumu çiziyorum.  
 🔥 **Auranest** projesinin sahibiyim — 2023’te başladım, 2024’te açtım, hala geliştiriyorum.  
 🎯 “Kafama koyduysam olur.” tarzında takılıyorum, kendi fikirlerimle üretmeyi seviyorum.  
 💻 Geceleri kod yazar, sabahları kahveyle debug yaparım ☕
@@ -18,11 +18,14 @@
 [👉 discord.gg/auranest](https://discord.gg/auranest)
 
 ---
+
+### 🧑‍💻 Discord Profilim
+
 <p align="center">
-
-  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&animated=true&borderRadius=30px" />
-
+  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&bg=1e1e2e&borderRadius=30px&animated=true&idleMessage=Kafasına%20göre%20takılıyor...%20😏" />
 </p>
+
+---
 
 ### 🧰 Kullandığım Teknolojiler
 
@@ -42,16 +45,15 @@
 ### 🤝 Sıkı Dostlarım
 
 Benimle birlikte bu yolda yürüyen efsaneler 💫
-miladves
-marcel
-realnagatso
-bbevq.zipp
-onurx.
 
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&animated=true&borderRadius=30px" />
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_2?theme=dark&animated=true&borderRadius=30px" />
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_3?theme=dark&animated=true&borderRadius=30px" />
+  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_4?theme=dark&animated=true&borderRadius=30px" />
+</p>
 
-
-
-
+🧑‍🤝‍🧑 miladves • marcel • realnagatso • bbevq.zipp • onurx.
 
 ---
 
@@ -71,5 +73,5 @@ onurx.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F5FF&center=true&vCenter=true&width=600&lines=Kafasına+göre+takan+bir+coder+bewrq;Node.js+ve+Aurænest+hayat+tarzı+😎;Kendi+yolunda+ilerleyen+bir+geliştirici!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F5FF&center=true&vCenter=true&width=600&lines=Kafasına+göre+takan+bir+coder+bewrq;Node.js%2C+PHP+ve+Aurænest+hayat+tarzı+😎;Kendi+yolunda+ilerleyen+bir+geliştirici!">
 </p>
