@@ -9,7 +9,7 @@
 
 ### 🧠 Hakkımda
 
-💬 2023'ten beri yazılım dünyasında kendi yolumu çiziyorum.  
+💬 2019'ten beri yazılım dünyasında kendi yolumu çiziyorum.  
 🔥 **Auranest** projesinin sahibiyim — 2023’te başladım, 2024’te açtım, hala geliştiriyorum.  
 🎯 “Kafama koyduysam olur.” tarzında takılıyorum, kendi fikirlerimle üretmeyi seviyorum.  
 💻 Geceleri kod yazar, sabahları kahveyle debug yaparım ☕
