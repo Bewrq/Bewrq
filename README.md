@@ -44,7 +44,7 @@ Benimle birlikte bu yolda yürüyen efsaneler 💫
 
 <p align="center">
 
-  <img src="https://lanyard.cnrad.dev/api/833656201623109712?theme=dark&animated=true&borderRadius=30px" />
+  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&animated=true&borderRadius=30px" />
   <img src="https://lanyard.cnrad.dev/api/758758516516585491?theme=dark&animated=true&borderRadius=30px" />
   <img src="https://lanyard.cnrad.dev/api/1150681244510728194?theme=dark&animated=true&borderRadius=30px" />
   <img src="https://lanyard.cnrad.dev/api/1394252223961235526?theme=dark&animated=true&borderRadius=30px" />
