@@ -46,14 +46,9 @@
 
 Benimle birlikte bu yolda yürüyen efsaneler 💫
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/817463869487185980?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_2?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_3?theme=dark&animated=true&borderRadius=30px" />
-  <img src="https://lanyard.cnrad.dev/api/DISCORD_ID_4?theme=dark&animated=true&borderRadius=30px" />
-</p>
 
-🧑‍🤝‍🧑 miladves • marcel • realnagatso • bbevq.zipp • onurx.
+
+ miladves • marcel • realnagatso • bbevq.zipp • onurx.
 
 ---
 
